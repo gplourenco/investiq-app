@@ -29,14 +29,6 @@ export OPENAI_API_KEY=sk-***
 
 **OR** set in the `.env` file
 
-3. Start the workspace using:
-
-```sh
-phi ws up
-```
-
-OR set it in the .env file.
-
 3. Start the workspace:
 
 ```sh
